@@ -1,0 +1,13 @@
+/* Fresh Fruit */
+@font-face {
+	font-weight: 400;
+  font-family: "Fresh Fruit";
+  src: url("../../media/font/Fresh\ Fruit.ttf") format("truetype");
+}
+
+/* Feira da Fruta */
+@font-face {
+	font-weight: 400;
+  font-family: "Feira-da-Fruta";
+  src: url("../../media/font/Feira\ da\ Fruta.ttf") format("truetype");
+}

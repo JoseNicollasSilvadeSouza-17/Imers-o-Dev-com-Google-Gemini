@@ -1,0 +1,20 @@
+*, *::before, *::after {
+  margin: 0;
+	border: none;
+  padding: 0;
+	box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+button, input, textarea {
+	font-size: inherit;
+}
+
+img, video {
+	display: block;
+	max-width: 100%;
+	width: 100%;
+}
